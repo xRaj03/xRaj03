@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on developing games using c++ language <br>i am also working on codechef and gfg platforms for DSA questions<br>i have also learnt html css javascript<br>i have also masterd c language <br>i am also worked on scratch and build projects on it
+i am currently working on developing games using c++ language <br>i am also working on codechef and gfg platforms for DSA questions<br>i have also learnt html css javascript<br>i am intermediate in solving question using c language <br>i am also worked on scratch and build projects on it for CSx50 course
 
 
 ## 🌐 Socials:
