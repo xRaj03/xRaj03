@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently working on developing games using c++ language <br>i am also working on codechef and gfg platforms for DSA questions<br>i have also learnt html css javascript<br>i am intermediate in solving question using c language <br>i am also worked on scratch and build projects on it for CSx50 course
+Game Developer with expertise in C++ for game mechanics, physics, and gameplay programming.<br>
+Competitive Programmer on platforms like CodeChef and GeeksforGeeks.<br>
+Web Developer proficient in HTML, CSS, and JavaScript.<br>
+Intermediate proficiency in C language for problem-solving.<br>
+Experience with Scratch for CS50x course projects.<br>
 
 
 ## 🌐 Socials:
